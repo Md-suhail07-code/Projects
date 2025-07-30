@@ -1,0 +1,38 @@
+/* Write your code here. */
+.result {
+  background-color: #ffffff33;
+  padding: 30px;
+  border-radius: 20px;
+  width: 60vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  color: white;
+  font-size: 30px;
+}
+
+.p {
+  color: white;
+  font-size: 20px;
+}
+
+.score {
+  color: #6a59ff;
+  font-size: 20px;
+}
+
+.btn {
+  background-color: #ffce27;
+  padding: 10px;
+  border-radius: 15px;
+  border-width: 0px;
+  font-weight: bold;
+  color: #3d3d3d;
+}
+
+.result-img {
+  height: 300px;
+  width: 150px;
+}

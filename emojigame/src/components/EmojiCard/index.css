@@ -1,0 +1,27 @@
+/* Write your code here. */
+li {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #ffffff33;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ffffff30;
+  margin: 10px;
+}
+
+img {
+  height: 80px;
+  width: 80px;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}
+button:hover {
+  cursor: pointer;
+}
